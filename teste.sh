@@ -3,6 +3,10 @@
 # script de converter imagens
 #
 # Ana Beatriz
+#
+#Fala Moralll.
+#
+#Gustavo Lobo Esteve Aqui. Fuizzz!
 
 cd imagens-livros
 echo 'convertendo as imagens' 
